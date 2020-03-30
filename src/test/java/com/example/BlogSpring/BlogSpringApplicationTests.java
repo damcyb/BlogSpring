@@ -1,5 +1,6 @@
 package com.example.BlogSpring;
 
+
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -7,7 +8,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BlogSpringApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void content() {
+
 	}
+
+
 
 }
